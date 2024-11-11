@@ -1,6 +1,6 @@
 # Audio Stream Service
 
-This is an Express-based Node.js application that connects to a MongoDB database to retrieve and stream audio episodes by `episode_id`. The application is designed to serve audio content for a podcast-as-a-service platform, providing endpoints to fetch audio files.
+This is an Express-based Node.js application that connects to a MongoDB database to retrieve and stream audio episodes by `episode_id`. The application is designed to serve audio content for a React platform, providing endpoints to fetch audio files.
 
 ## Features
 - Connects to a MongoDB database to retrieve episode data.
@@ -21,7 +21,7 @@ This is an Express-based Node.js application that connects to a MongoDB database
    git clone <repository-url>
    cd <repository-name>
 
-## Start the Server
+2. **Start the Server**:
   ```bash
   node index.js
 
