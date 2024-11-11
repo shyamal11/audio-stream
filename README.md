@@ -22,7 +22,7 @@ This is an Express-based Node.js application that connects to a MongoDB database
    cd <repository-name>
 
 2. **Start the Server**:
-  ```bash
+    ```bash
     node index.js
 
 
